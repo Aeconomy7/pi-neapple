@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Quick wp6.sh for the Pineapple
+cd ~/pineapple
+./wp6.sh
+open_pine
+cd -

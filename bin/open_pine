@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# start pi-neapple homepage upon successful setup
+chromium 172.16.42.1:1471 < /dev/null &> /dev/null &
